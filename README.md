@@ -49,7 +49,7 @@ De acordo com a regra proposta, o login necessita apenas de um nome de usuario, 
 
 Esta aplicação foi hosteada no Vercel, para poder ser visualizada com facilidade.
 
-<!-- - [projeto-labex.vercel.app](https://projeto-labex.vercel.app) -->
+[code-leap-frontend-test.vercel.app](https://code-leap-frontend-test.vercel.app)
 
 </br>
 
