@@ -1,0 +1,1 @@
+export const BaseUrl = "https://dev.codeleap.co.uk/careers/"
