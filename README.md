@@ -1,5 +1,5 @@
 <h1 align="center">
-   <!-- <img src="./src/img/Home.png"> -->
+   <img src="https://user-images.githubusercontent.com/99031516/231500855-2f27ae1b-3f88-4e20-8570-00d231a4bab7.png">
 </h1>
 
 ### Projeto CodeLeap
@@ -75,32 +75,37 @@ Estas foram algumas das técnologias utilizadas no projeto, caso precise de refe
 
 </br>
 
-- Planejamento
+- Desktop
 
-![planejamentoLabex](https://user-images.githubusercontent.com/99031516/165429887-8d4334bc-454c-4306-a695-9039965a67c7.jpg)
+![image](https://user-images.githubusercontent.com/99031516/231501333-8db587ea-2bd4-4566-b30a-2c44ed810daa.png)
 
-</br>
+![image](https://user-images.githubusercontent.com/99031516/231501850-e97d9484-db3e-4187-acfd-5ecc20aa9ea5.png)
 
-- Realizado
+![image](https://user-images.githubusercontent.com/99031516/231502251-87decdec-5e83-4ed6-bcb0-f598ad009632.png)
 
-![image](https://user-images.githubusercontent.com/99031516/203863576-7e2f3eb2-86a1-4266-b4bc-8821beb98640.png)
+![image](https://user-images.githubusercontent.com/99031516/231502583-24a3d1c3-8707-4ecf-bb0e-6530dad9e543.png)
 
-![image](https://user-images.githubusercontent.com/99031516/223776626-e193d6bb-3583-4430-9496-d48fb953ecce.png)
+![image](https://user-images.githubusercontent.com/99031516/231502748-61359199-f93f-4df0-9c98-77005bf62ae5.png)
 
-![image](https://user-images.githubusercontent.com/99031516/223776852-6c7a832f-2672-436e-b203-a76b56f87bf9.png)
-
-![image](https://user-images.githubusercontent.com/99031516/203863827-23a57f1d-eb85-42ff-a226-f525d24cc4f3.png)
-
-![image](https://user-images.githubusercontent.com/99031516/223777450-3cc2e958-3ca7-41b0-b2aa-b4fe0f732675.png)
-
-![image](https://user-images.githubusercontent.com/99031516/223777713-61a5775e-eabc-482b-bbe4-04d2db30e9ad.png)
-
-![image](https://user-images.githubusercontent.com/99031516/223778145-41318568-a26b-4901-951f-5516199dd4ea.png)
-
-![image](https://user-images.githubusercontent.com/99031516/223778262-1dde0313-b073-4706-adbe-cfdba69716d1.png)
+![image](https://user-images.githubusercontent.com/99031516/231503019-04e608c8-d79a-44ab-8129-4cbf8488661f.png)
 
 </br>
 
+- Mobile (Baseado no display de um IPhone Pro 12)
+
+![image](https://user-images.githubusercontent.com/99031516/231504580-7d43f280-424c-4133-9e28-1eaeba290167.png)
+
+![image](https://user-images.githubusercontent.com/99031516/231504729-1b2716bf-082a-4bed-b4af-76861d715462.png)
+
+![image](https://user-images.githubusercontent.com/99031516/231504955-6f3917d4-7ad8-47e4-84a6-a707673ea0bb.png)
+
+![image](https://user-images.githubusercontent.com/99031516/231505058-0daf91de-0535-49b6-b5f9-5954706bdf9d.png)
+
+![image](https://user-images.githubusercontent.com/99031516/231505311-211c02cd-0d54-473b-bbed-578197274f90.png)
+
+![image](https://user-images.githubusercontent.com/99031516/231505411-ba7eb3ed-01e9-4ec9-a043-be30fc610744.png)
+
+</br>
 
 ## 🎁 Expressões de gratidão
 
