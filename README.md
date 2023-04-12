@@ -2,7 +2,7 @@
    <img src="https://user-images.githubusercontent.com/99031516/231500855-2f27ae1b-3f88-4e20-8570-00d231a4bab7.png">
 </h1>
 
-To read in Portuguese **[clik here!](#-versão-em-português)**
+To read in Portuguese **[clik here!](#versão-em-português)**
 
 ### Project CodeLeap
 
